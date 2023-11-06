@@ -1,0 +1,12 @@
+Add a dice roll to generate a random number from one to ten
+if less than 1]0 result one - if more then 2
+
+maybe as a third option -- let the char decide and do
+a dice roll.
+
+
+need to figure out a way to have the program end
+after a death so the second level doesnt resume
+despite the death. - mauybe it does this automatically?
+because the program redirects to the death method
+which ends at a specific point?
