@@ -28,7 +28,7 @@ public class Level1 extends Menu {
 
         delay.sleep2000();
 
-        System.out.println("2.Leave it the fuck alone");
+        System.out.println("2.Leave it alone");
         System.out.println("\n");
 
         delay.sleep2000();
@@ -71,7 +71,7 @@ public class Level1 extends Menu {
 
 
             case "2":
-                System.out.println("You leave the lightswitch well the fuck alone");
+                System.out.println("You leave the lightswitch well alone");
 
                 delay.sleep1000();
 
@@ -106,7 +106,7 @@ public class Level1 extends Menu {
 
                     delay.sleep1000();
 
-                    System.out.println(" leaves the switch well the fuck alone");
+                    System.out.println(" leaves the switch well alone");
                 }
 
         }
