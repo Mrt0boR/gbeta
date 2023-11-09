@@ -14,7 +14,7 @@ public class Menu {
     public void welcomemessage() {
 
         System.out.println("Welcome to...");
-        System.out.println("Some fukin game idk");
+        System.out.println("Some game idk");
 
 
     }
